@@ -29,7 +29,7 @@ td {
     font-size: 1.5em;
 }
 
-input[type=text] {
+input[type=text], input[type=number]{
     font-family: jedi;
     font-size: 1.5em;
     border: 1px dotted white;
